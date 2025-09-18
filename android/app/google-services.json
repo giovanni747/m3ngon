@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362774588704",
+    "project_id": "m3nko-3c577",
+    "storage_bucket": "m3nko-3c577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362774588704:android:f45a12175cc23e5c303b45",
+        "android_client_info": {
+          "package_name": "com.example.m3ngon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjhqblF-bfiao8b7cBavAvAFrli4IdxrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
